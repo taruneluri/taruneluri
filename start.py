@@ -1,0 +1,5 @@
+a=input("enter friend 1 : ")
+b=input("enter friend 2 : ")
+c=input("enter friend 3 : ")
+print("Friend 1 is : ",a,"\n Friend 2 is : ",b,"\n Friend 3 is : ",c)
+print(type(a),"\n",type(b),"\n",type(c),"\n")
